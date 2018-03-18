@@ -998,6 +998,7 @@ Additionally it includes CPD, the copy-paste-detector. CPD finds duplicated code
         <module>pmd-fortran</module>
         <module>pmd-go</module>
         <module>pmd-groovy</module>
+        <module>pmd-hive</module>
         <module>pmd-java</module>
         <module>pmd-javascript</module>
         <module>pmd-jsp</module>
